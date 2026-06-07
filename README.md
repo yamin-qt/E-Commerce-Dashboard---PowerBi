@@ -1,6 +1,7 @@
 # 🛒 E-Commerce Sales Analysis Dashboard — Power BI
 
-End-to-end Power BI project: data cleaning, modeling, DAX measures, interactive visuals, and navigation — built on a real e-commerce dataset.
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
 
